@@ -19,16 +19,6 @@ App allows for the user to track workouts. User has the capability to add either
 <img src="Screen Shot 2020-02-23 at 5.33.24 PM.png" width=400px>
 <img src="Screen Shot 2020-02-23 at 5.33.42 PM.png" width=400px>
 
-# Use
-User moves to the box that allows input.
-<br>
-Once user puts in the burger they wish they click the button and it populates the left side of the screen.
-<br>
-User can click those burgers on the left side to "devour" them. They then move to the right side of the screen.  
-<br>
-Once on the right burgers can be clicked to be deleted.
-
-
 
 
 # License
